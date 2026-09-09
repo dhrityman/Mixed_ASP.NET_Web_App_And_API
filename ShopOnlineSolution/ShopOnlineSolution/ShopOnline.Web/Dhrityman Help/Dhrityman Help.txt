@@ -1,0 +1,19 @@
+ShopOnlineSolution
+
+GitHub Link:
+https://github.com/GavinLonDigital
+https://github.com/GavinLonDigital/ShopOnlineSolution
+
+YouTube Video:https://www.youtube.com/watch?v=3_AsedRrqww&list=PL4LFuHwItvKbdK-ogNsOx2X58hHGeQm8c
+
+Actual Web Project is made: ASP.NET 6.0 Blazor based application
+========================================================================================================
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+========================================================================================================
+
+This application is also used the Payment gateway of PayPal.
+
+-------------------------------------------------------------------------------------------------
+ 
+
+
